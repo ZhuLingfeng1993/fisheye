@@ -1,0 +1,16 @@
+%YAML:1.0
+---
+frameCount: 30
+calibrationDate: "Sat May 12 17:21:46 2018\n"
+cameraMatrix: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 306.3077572439977, 0., 639.9572981367352, 0.,
+       317.8928311414376, 479.3649851733811, 0., 0., 1. ]
+distCoeffs: !!opencv-matrix
+   rows: 4
+   cols: 1
+   dt: d
+   data: [ 0.0933863, 0.0334531,
+       -0.0308546, 0.00510904 ]
